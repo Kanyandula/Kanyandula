@@ -4,6 +4,8 @@
 
 I’m Ephraim based in Dublin Ireland. 👀 I’m interested in Android Application Development,kotlin multiplatform, ktor, Django Rest Flamework and NodeJs.🌱 I really enjoy learning Jetpack compose and  kotlin multiplatform. 💞️ I’m looking to collaborate on the topics that I am currently learning, including best practices in UI design and unit testing.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyandula)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills 
 Android, Kotlin, Java, Django, Python, NodeJs, Javascript, Rest APIs, MySQL, SQLite
 
