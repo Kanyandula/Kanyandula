@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ephraim
 #### I am an Android Engeneer
-![I am an Android Engeneer](https://firebasestorage.googleapis.com/v0/b/travelmantics-6a12f.appspot.com/o/deals_pictures%2Freal%20estate%20(Banner%20(Landscape)).png?alt=media&token=8fc8790e-7bd6-4773-af54-8d34e47a635f)
+![I am an Android Engeneer](https://github.com/Kanyandula/Kanyandula/blob/main/real%20estate%20(Banner%20(Landscape)).png)
 
 I’m Ephraim based in Dublin Ireland. 👀 I’m interested in Android Application Development,kotlin multiplatform, ktor, Django Rest Flamework and NodeJs.🌱 I really enjoy learning Jetpack compose and  kotlin multiplatform. 💞️ I’m looking to collaborate on the topics that I am currently learning, including best practices in UI design and unit testing.
 
