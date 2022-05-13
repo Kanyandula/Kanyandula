@@ -6,7 +6,7 @@ I’m Ephraim based in Dublin Ireland. 👀 I’m interested in Android Applicat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyandula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyandula)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills 
 Android, Kotlin, Java, Django, Python, NodeJs, Javascript, Rest APIs, MySQL, SQLite
 
